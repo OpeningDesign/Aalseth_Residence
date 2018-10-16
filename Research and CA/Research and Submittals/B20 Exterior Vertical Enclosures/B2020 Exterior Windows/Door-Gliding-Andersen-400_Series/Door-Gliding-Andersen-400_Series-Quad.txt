@@ -1,0 +1,10 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##,Fractional Lights Wide##OTHER##,Fractional Lights High##OTHER##
+"9' 9"" x 6' 7-1/2""",117,79.5,FWG10068-4,Vinyl-clad wood gliding patio door,3,5,3,5
+"9' 9"" x 6' 10-3/8""",117,82.375,FWG100611-4,Vinyl-clad wood gliding patio door,3,5,3,5
+"9' 9"" x 7' 11-1/2""",117,95.5,FWG10080-4,Vinyl-clad wood gliding patio door,3,6,3,6
+"11' 9"" x 6' 7-1/2""",141,79.5,FWG12068-4,Vinyl-clad wood gliding patio door,3,5,3,5
+"11' 9"" x 6' 10-3/8""",141,82.375,FWG120611-4,Vinyl-clad wood gliding patio door,3,5,3,5
+"11' 9"" x 7' 11-1/2""",141,95.5,FWG12080-4,Vinyl-clad wood gliding patio door,3,6,3,6
+"15' 9"" x 6' 7-1/2""",189,79.5,FWG16068-4,Vinyl-clad wood gliding patio door,4,5,4,5
+"15' 9"" x 6' 10-3/8""",189,82.375,FWG160611-4,Vinyl-clad wood gliding patio door,4,5,4,5
+"15' 9"" x 7' 11-1/2""",189,95.5,FWG16080-4,Vinyl-clad wood gliding patio door,4,6,4,6

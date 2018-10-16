@@ -1,0 +1,16 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##,Fractional Lights Wide##OTHER##,Fractional Lights High##OTHER##
+"3' 11-1/4"" x 6' 7-1/2""",47.25,79.5,FWHOD4068,Fiberglass and wood outswing patio door,2,5,2,5
+"3' 11-1/4"" x 6' 10-3/8""",47.25,82.375,FWHOD40611,Fiberglass and wood outswing patio door,2,5,2,5
+"3' 11-1/4"" x 7' 11-1/2""",47.25,95.5,FWHOD4080,Fiberglass and wood outswing patio door,2,6,2,6
+"4' 11-1/4"" x 6' 7-1/2""",59.25,79.5,FWHOD5068,Fiberglass and wood outswing patio door,3,5,3,5
+"4' 11-1/4"" x 6' 10-3/8""",59.25,82.375,FWHOD50611,Fiberglass and wood outswing patio door,3,5,3,5
+"4' 11-1/4"" x 7' 11-1/2""",59.25,95.5,FWHOD5080,Fiberglass and wood outswing patio door,3,6,3,6
+"5' 3-1/4"" x 6' 7-1/2""",63.25,79.5,FWHOD5468,Fiberglass and wood outswing patio door,3,5,3,5
+"5' 3-1/4"" x 6' 10-3/8""",63.25,82.375,FWHOD54611,Fiberglass and wood outswing patio door,3,5,3,5
+"5' 3-1/4"" x 7' 11-1/2""",63.25,95.5,FWHOD5480,Fiberglass and wood outswing patio door,3,6,3,6
+"5' 11-1/4"" x 6' 7-1/2""",71.25,79.5,FWHOD6068,Fiberglass and wood outswing patio door,3,5,3,5
+"5' 11-1/4"" x 6' 10-3/8""",71.25,82.375,FWHOD60611,Fiberglass and wood outswing patio door,3,5,3,5
+"5' 11-1/4"" x 7' 11-1/2""",71.25,95.5,FWHOD6080,Fiberglass and wood outswing patio door,3,6,3,6
+"6' 3-1/4"" x 6' 7-1/2""",75.25,79.5,FWHOD6468,Fiberglass and wood outswing patio door,4,5,4,5
+"6' 3-1/4"" x 6' 10-3/8""",75.25,82.375,FWHOD64611,Fiberglass and wood outswing patio door,4,5,4,5
+"6' 3-1/4"" x 7' 11-1/2""",75.25,95.5,FWHOD6480,Fiberglass and wood outswing patio door,4,6,4,6

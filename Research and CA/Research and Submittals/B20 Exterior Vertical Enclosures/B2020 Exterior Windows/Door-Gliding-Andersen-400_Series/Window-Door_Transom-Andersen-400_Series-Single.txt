@@ -1,0 +1,31 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##,Fractional Lights Wide##OTHER##,Fractional Lights High##OTHER##
+"1' 2-13/16"" x 1' 0-13/16""",14.8125,12.8125,FWSLT 1311,Vinyl-clad wood sidelight transom,1,1,1,1
+"1' 2-13/16"" x 1' 5-13/16""",14.8125,17.8125,FWSLT 1316,Vinyl-clad wood sidelight transom,1,1,1,1
+"1' 2-13/16"" x 1' 9-13/16""",14.8125,21.8125,FWSLT 13110,Vinyl-clad wood sidelight transom,1,1,1,1
+"1' 6-13/16"" x 1' 0-13/16""",16.8125,12.8125,FWSLT 1711,Vinyl-clad wood sidelight transom,1,1,1,1
+"1' 6-13/16"" x 1' 5-13/16""",16.8125,17.8125,FWSLT 1716,Vinyl-clad wood sidelight transom,1,1,1,1
+"1' 6-13/16"" x 1' 9-13/16""",16.8125,21.8125,FWSLT 17110,Vinyl-clad wood sidelight transom,1,1,1,1
+"2' 0-1/2"" x 1'  0-13/16""",24.5,12.8125,FWT 2111,Vinyl-clad wood patio door transom,2,1,2,1
+"2' 0-1/2"" x 1'  5-13/16""",24.5,17.8125,FWT 2116,Vinyl-clad wood patio door transom,2,1,2,1
+"2' 0-1/2"" x 1'  9-13/16""",24.5,21.8125,FWT 21110,Vinyl-clad wood patio door transom,2,1,2,1
+"2' 6-1/8"" x 1' 0-13/16""",30.125,12.8125,FWT 2711,Vinyl-clad wood patio door transom,3,1,3,1
+"2' 6-1/8"" x 1' 5-13/16""",30.125,17.8125,FWT 2716,Vinyl-clad wood patio door transom,3,1,3,1
+"2' 6-1/8"" x 1' 9-13/16""",30.125,21.8125,FWT 27110,Vinyl-clad wood patio door transom,3,1,3,1
+"2' 8-1/8"" x 1' 0-13/16""",32.125,12.8125,FWT 2911,Vinyl-clad wood patio door transom,3,1,3,1
+"2' 8-1/8"" x 1' 5-13/16""",32.125,17.8125,FWT2916,Vinyl-clad wood patio door transom,3,1,3,1
+"2' 8-1/8"" x 1' 9-13/16""",32.125,21.8125,FWT29110,Vinyl-clad wood patio door transom,3,1,3,1
+"3' 0-1/8"" x 1' 0-13/16""",36.125,12.8125,FWT3111,Vinyl-clad wood patio door transom,3,1,3,1
+"3' 0-1/8"" x 1' 5-13/16""",36.125,17.8125,FWT3116,Vinyl-clad wood patio door transom,3,1,3,1
+"3' 0-1/8"" x 1' 9-13/16""",36.125,21.8125,FWT31110,Vinyl-clad wood patio door transom,3,1,3,1
+"4' 0"" x 1' 0-13/16""",48,12.8125,FWT4111,Vinyl-clad wood patio door transom,5,1,5,1
+"4' 0"" x 1' 5-13/16""",48,17.8125,FWT4116,Vinyl-clad wood patio door transom,5,1,5,1
+"4' 0"" x 1' 9-13/16""",48,21.8125,FWT41110,Vinyl-clad wood patio door transom,5,1,5,1
+"4' 11-1/4"" x 1' 0-13/16""",59.25,12.8125,FWT5011,Vinyl-clad wood patio door transom,7,1,7,1
+"4' 11-1/4"" x 1' 5-13/16""",59.25,17.8125,FWT5016,Vinyl-clad wood patio door transom,7,1,7,1
+"4' 11-1/4"" x 1' 9-13/16""",59.25,21.8125,FWT50110,Vinyl-clad wood patio door transom,7,1,7,1
+"5' 3-1/4"" x 1' 0-13/16""",63.25,12.8125,FWT5411,Vinyl-clad wood patio door transom,7,1,7,1
+"5' 3-1/4"" x 1' 5-13/16""",63.25,17.8125,FWT5416,Vinyl-clad wood patio door transom,7,1,7,1
+"5' 3-1/4"" x 1' 9-13/16""",63.25,21.8125,FWT54110,Vinyl-clad wood patio door transom,7,1,7,1
+"5' 11-1/4""  x 1' 0-13/16""",71.25,12.8125,FWT6011,Vinyl-clad wood patio door transom,7,1,7,1
+"5' 11-1/4""  x 1' 5-13/16""",71.25,17.8125,FWT6016,Vinyl-clad wood patio door transom,7,1,7,1
+"5' 11-1/4""  x 1' 9-13/16""",71.25,21.8125,FWT60110,Vinyl-clad wood patio door transom,7,1,7,1
