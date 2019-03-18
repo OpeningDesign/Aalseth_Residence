@@ -1,0 +1,10 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Top Light Lights High##OTHER##,. . Bottom Light Lights High##OTHER##,. . Lights Wide##OTHER##
+"2' 8"" x 6' 8""",32,80,GP2668S,Aluminum-clad wood gliding patio sidelight,5,1,3
+"2' 8"" x 6' 10""",32,82,GP26610S,Aluminum-clad wood gliding patio sidelight,5,1,3
+"2' 8"" x 8' 0""",32,96,GP2680S,Aluminum-clad wood gliding patio sidelight,6,1,3
+"3' 2"" x 6' 8""",38,80,GP3068S,Aluminum-clad wood gliding patio sidelight,5,1,3
+"3' 2"" x 6' 10""",38,82,GP30610S,Aluminum-clad wood gliding patio sidelight,5,1,3
+"3' 2"" x 8' 0""",38,96,GP3080S,Aluminum-clad wood gliding patio sidelight,6,1,3
+"4' 2"" x 6' 8""",50,80,GP4068S,Aluminum-clad wood gliding patio sidelight,5,1,4
+"4' 2"" x 6' 10""",50,82,GP40610S,Aluminum-clad wood gliding patio sidelight,5,1,4
+"4' 2"" x 8' 0""",50,96,GP4080S,Aluminum-clad wood gliding patio sidelight,6,1,4

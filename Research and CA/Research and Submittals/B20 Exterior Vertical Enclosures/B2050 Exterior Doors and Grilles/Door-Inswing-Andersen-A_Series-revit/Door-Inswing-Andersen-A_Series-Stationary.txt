@@ -1,0 +1,16 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##,Fractional Lights Wide##OTHER##,Fractional Lights High##OTHER##
+"2' 0-1/8"" x 6' 7-1/2""",24.125,79.5,FWHID2168S,Fiberglass and wood stationary inswing patio door,2,5,2,5
+"2' 0-1/8"" x 6' 10-3/8""",24.125,82.375,FWHID21611S,Fiberglass and wood stationary inswing patio door,2,5,2,5
+"2' 0-1/8"" x 7' 11-1/2""",24.125,95.5,FWHID2180S,Fiberglass and wood stationary inswing patio door,2,6,2,6
+"2' 6-1/8"" x 6' 7-1/2""",30.125,79.5,FWHID2768S,Fiberglass and wood stationary inswing patio door,3,5,3,5
+"2' 6-1/8"" x 6' 10-3/8""",30.125,82.375,FWHID27611S,Fiberglass and wood stationary inswing patio door,3,5,3,5
+"2' 6-1/8"" x 7' 11-1/2""",30.125,95.5,FWHID2780S,Fiberglass and wood stationary inswing patio door,3,6,3,6
+"2' 8-1/8"" x 6' 7-1/2""",32.125,79.5,FWHID2968S,Fiberglass and wood stationary inswing patio door,3,5,3,5
+"2' 8-1/8"" x 6' 10-3/8""",32.125,82.375,FWHID29611S,Fiberglass and wood stationary inswing patio door,3,5,3,5
+"2' 8-1/8"" x 7' 11-1/2""",32.125,95.5,FWHID2980S,Fiberglass and wood stationary inswing patio door,3,6,3,6
+"3' 0-1/8"" x 6' 7-1/2""",36.125,79.5,FWHID3168S,Fiberglass and wood stationary inswing patio door,3,5,3,5
+"3' 0-1/8"" x 6' 10-3/8""",36.125,82.375,FWHID31611S,Fiberglass and wood stationary inswing patio door,3,5,3,5
+"3' 0-1/8"" x 7' 11-1/2""",36.125,95.5,FWHID3180S,Fiberglass and wood stationary inswing patio door,3,6,3,6
+"3' 2-1/8"" x 6' 7-1/2""",38.125,79.5,FWHID3368S,Fiberglass and wood stationary inswing patio door,4,5,4,5
+"3' 2-1/8"" x 6' 10-3/8""",38.125,82.375,FWHID33611S,Fiberglass and wood stationary inswing patio door,4,5,4,5
+"3' 2-1/8"" x 7' 11-1/2""",38.125,95.5,FWHID3380S,Fiberglass and wood stationary inswing patio door,4,6,4,6

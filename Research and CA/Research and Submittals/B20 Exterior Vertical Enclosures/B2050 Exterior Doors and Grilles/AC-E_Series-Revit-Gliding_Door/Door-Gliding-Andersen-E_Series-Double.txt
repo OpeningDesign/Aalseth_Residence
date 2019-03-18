@@ -1,0 +1,10 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Top Light Lights High##OTHER##,. . Bottom Light Lights High##OTHER##,. . Lights Wide##OTHER##
+"4' 11-3/4"" x 6' 8""",59.75,80,GP5068,Aluminum-clad wood gliding patio door,5,1,3
+"4' 11-3/4"" x 6' 10""",59.75,82,GP50610,Aluminum-clad wood gliding patio door,5,1,3
+"4' 11-3/4"" x 8' 0""",59.75,96,GP5080,Aluminum-clad wood gliding patio door,6,1,3
+"5' 11-3/4"" x 6' 8""",71.75,80,GP6068,Aluminum-clad wood gliding patio door,5,1,3
+"5' 11-3/4"" x 6' 10""",71.75,82,GP60610,Aluminum-clad wood gliding patio door,5,1,3
+"5' 11-3/4"" x 8' 0""",71.75,96,GP6080,Aluminum-clad wood gliding patio door,6,1,3
+"7' 11-3/4"" x 6' 8""",95.75,80,GP8068,Aluminum-clad wood gliding patio door,5,1,4
+"7' 11-3/4"" x 6' 10""",95.75,82,GP80610,Aluminum-clad wood gliding patio door,5,1,4
+"7' 11-3/4"" x 8' 0""",95.75,96,GP8080,Aluminum-clad wood gliding patio door,6,1,4

@@ -1,0 +1,7 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##,Fractional Lights Wide##OTHER##,Fractional Lights High##OTHER##
+"1' 2-1/4"" x 6' 7-1/2""",14.25,79.5,FWSLD-1-1368,Fiberglass and wood sidelight,1,5,1,5
+"1' 2-1/4"" x 6' 10-3/8""",14.25,82.375,FWSLD-1-13611,Fiberglass and wood sidelight,1,5,1,5
+"1' 2-1/4"" x 7' 11-1/2""",14.25,95.5,FWSLD-1-1380,Fiberglass and wood sidelight,1,6,1,6
+"1' 6-1/4"" x 6' 7-1/2""",18.25,79.5,FWSLD-1-1768,Fiberglass and wood sidelight,2,5,2,5
+"1' 6-1/4"" x 6' 10-3/8""",18.25,82.375,FWSLD-1-17611,Fiberglass and wood sidelight,2,5,2,5
+"1' 6-1/4"" x 7' 11-1/2""",18.25,95.5,FWSLD-1-1780,Fiberglass and wood sidelight,2,6,2,6

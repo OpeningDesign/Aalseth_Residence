@@ -1,0 +1,13 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##,Fractional Lights Wide##OTHER##,Fractional Lights High##OTHER##
+"2' 8-3/8"" x 6' 7-1/2""",32.375,79.5,FWGD2968S,Fiberglass and wood gliding patio door,3,5,3,5
+"2' 8-3/8"" x 6' 10-3/8""",32.375,82.375,FWGD29611S,Fiberglass and wood gliding patio door,3,5,3,5
+"2' 8-3/8"" x 7' 11-1/2""",32.375,95.5,FWGD2980S,Fiberglass and wood gliding patio door,3,6,3,6
+"3' 2-3/8"" x 6' 7-1/2""",38.375,79.5,FWGD3368S,Fiberglass and wood gliding patio door,3,5,3,5
+"3' 2-3/8"" x 6' 10-3/8""",38.375,82.375,FWGD33611S,Fiberglass and wood gliding patio door,3,5,3,5
+"3' 2-3/8"" x 7' 11-1/2""",38.375,95.5,FWGD3380S,Fiberglass and wood gliding patio door,3,6,3,6
+"3' 8-3/8"" x 6' 7-1/2""",44.375,79.5,FWGD3968S,Fiberglass and wood gliding patio door,4,5,4,5
+"3' 8-3/8"" x 6' 10-3/8""",44.375,82.375,FWGD39611S,Fiberglass and wood gliding patio door,4,5,4,5
+"3' 8-3/8"" x 7' 11-1/2""",44.375,95.5,FWGD3980S,Fiberglass and wood gliding patio door,4,6,4,6
+"4' 2-3/8"" x 6' 7-1/2""",50.375,79.5,FWGD4368S,Fiberglass and wood gliding patio door,5,5,5,5
+"4' 2-3/8"" x 6' 10-3/8""",50.375,82.375,FWGD43611S,Fiberglass and wood gliding patio door,5,5,5,5
+"4' 2-3/8"" x 7' 11-1/2""",50.375,95.5,FWGD4380S,Fiberglass and wood gliding patio door,5,6,5,6

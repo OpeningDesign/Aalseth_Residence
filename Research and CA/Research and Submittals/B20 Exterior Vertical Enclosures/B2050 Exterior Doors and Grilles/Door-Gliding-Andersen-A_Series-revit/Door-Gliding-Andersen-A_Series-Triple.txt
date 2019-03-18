@@ -1,0 +1,7 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##,Fractional Lights Wide##OTHER##,Fractional Lights High##OTHER##
+"9' 9"" x 6' 7-1/2""",117,79.5,FWGD91068-3,Fiberglass and wood gliding patio door,3,5,3,5
+"9' 9"" x 6' 10-3/8""",117,82.375,FWGD910611-3,Fiberglass and wood gliding patio door,3,5,3,5
+"9' 9"" x 7' 11-1/2""",117,95.5,FWGD91080-3,Fiberglass and wood gliding patio door,3,6,3,6
+"11' 9"" x 6' 7-1/2""",141,79.5,FWGD111068-3,Fiberglass and wood gliding patio door,3,5,3,5
+"11' 9"" x 6' 10-3/8""",141,82.375,FWGD1110611-3,Fiberglass and wood gliding patio door,3,5,3,5
+"11' 9"" x 7' 11-1/2""",141,95.5,FWGD111080-3,Fiberglass and wood gliding patio door,3,6,3,6
